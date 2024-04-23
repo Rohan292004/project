@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Varela+Round&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  min-height: 100vh;
+  background-image: radial-gradient(circle 993px at 0.5% 50.5%,
+      rgba(171, 245, 137, 0.37) 0%,
+      rgb(124, 193, 192) 100.2%);
+  font-family: "Varela Round", sans-serif;
+}
+
+.ContentBox_wrapper__TsGd7 {
+  background-color: rgba(106, 161, 206, 0.568) !important;
+}
